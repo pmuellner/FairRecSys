@@ -1,1 +1,8 @@
 # FairRecSys
+Repository for the paper "Decision-Support for Multistakeholder Fairness in Tourism: How can Algorithms benefit from Social Science?" submitted to the European Workshop on Algorithmic Fairness.
+
+For our review of fairness criteria, we performed a Scopus search to discover relevant publications from the social science and computer science communities. The query included three subqueries pertaining to tourism, fairness, and decision-support:
+* TourismQuery:  travel OR tourist OR tourism OR airbnb OR booking OR tripadvisor OR yelp OR "Smart Tourism" OR "Smart Tourists" OR "Destination Management Organization" OR "Digital Tourism" OR "Digital Tourists" OR "Smart Tourist Destinations" OR "Destination Management System" OR "Destination Platform" OR "Tourism Service Supplier" OR ( "Property Management System" AND "Tourism or Tourists" )
+* FairQuery: fair OR fairness
+* RecQuery: recommend OR recommendation OR "recommender system" OR recommender OR "decision-support" OR "decision support"
+The final query conjoined the subqueries, i.e., TourismQuery AND FairQuery AND RecQuery
