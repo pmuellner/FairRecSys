@@ -5,4 +5,5 @@ For our review of fairness criteria, we performed a Scopus search to discover re
 * TourismQuery:  travel OR tourist OR tourism OR airbnb OR booking OR tripadvisor OR yelp OR "Smart Tourism" OR "Smart Tourists" OR "Destination Management Organization" OR "Digital Tourism" OR "Digital Tourists" OR "Smart Tourist Destinations" OR "Destination Management System" OR "Destination Platform" OR "Tourism Service Supplier" OR ( "Property Management System" AND "Tourism or Tourists" )
 * FairQuery: fair OR fairness
 * RecQuery: recommend OR recommendation OR "recommender system" OR recommender OR "decision-support" OR "decision support"
-The final query conjoined the subqueries, i.e., TourismQuery AND FairQuery AND RecQuery
+
+The final query conjoined the subqueries, i.e., TourismQuery AND FairQuery AND RecQuery. Since the search results lacked literature on the "multistakeholder" topic, we adapted our second query accordingly, i.e., "multistakeholder AND Tourismquery. We discarded publications that were off-topic, Editorials, not in English, and not available by our means, which resulted in 38 publications. 
