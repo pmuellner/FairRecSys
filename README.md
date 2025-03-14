@@ -6,4 +6,6 @@ For our review of fairness criteria, we performed a Scopus search to discover re
 * FairQuery: fair OR fairness
 * RecQuery: recommend OR recommendation OR "recommender system" OR recommender OR "decision-support" OR "decision support"
 
-The final query conjoined the subqueries, i.e., TourismQuery AND FairQuery AND RecQuery. Since the search results lacked literature on the "multistakeholder" topic, we adapted our second query accordingly, i.e., "multistakeholder AND Tourismquery. We discarded publications that were off-topic, Editorials, not in English, and not available by our means, which resulted in 38 publications. 
+The final query conjoined the subqueries, i.e., TourismQuery AND FairQuery AND RecQuery. Since the search results lacked literature on the "multistakeholder" topic, we adapted our second query accordingly, i.e., "multistakeholder AND Tourismquery. 
+
+Finally, manually inspected all search results and discarded publications that were off-topic, Editorials, not in English, and not available by our means. This filtering step led to 38 publications from which 9 publications are reviewed in this work-in-progress due to space limitations. 
