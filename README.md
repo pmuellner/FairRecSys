@@ -1,4 +1,4 @@
-# FairRecSys
+# Decision-Support for Multistakeholder Fairness in Tourism: How can Algorithms benefit from Social Science?
 Repository for the paper "Decision-Support for Multistakeholder Fairness in Tourism: How can Algorithms benefit from Social Science?" submitted to the European Workshop on Algorithmic Fairness.
 
 For our review of fairness criteria, we performed a Scopus search to discover relevant publications from the social science and computer science communities. The query included three subqueries pertaining to tourism, fairness, and decision-support:
